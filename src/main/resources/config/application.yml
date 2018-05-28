@@ -8,7 +8,7 @@ logging:
 
 # Endpoint of an Ethereum or Quorum node we wish to use.
 # To use IPC simply provide a file path to the socket, such as /path/to/geth.ipc
-nodeEndpoint: https://ropsten.infura.io/aQbKYPrmCzWTgsda7TO7
+nodeEndpoint: https://ropsten.infura.io/{key}
 
 # The Ethereum or Quorum address we wish to use when transacting.
 # Note - this address must be already unlocked in the client
